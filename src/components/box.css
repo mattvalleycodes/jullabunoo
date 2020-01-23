@@ -1,0 +1,10 @@
+.box {
+  border: solid 1px #d6d9dc;
+  box-shadow: 10px 10px #eff0f1;
+  transition: box-shadow 0.5s ease-out;
+  padding: 20px;
+}
+
+.box:hover {
+  box-shadow: 10px 10px #E1ECF4;
+}

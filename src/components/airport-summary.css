@@ -1,0 +1,28 @@
+.airport-summary {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.airport-summary__name {
+  margin: 0;
+  padding: 0;
+  font-size: 24px;
+  font-weight: bold;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  color: #242729;
+}
+
+.airport-summary__code {
+  font-size: 12px;
+  color: #6a737c;
+}
+
+.airport-summary__location {
+  font-size: 16px;
+  margin-top: 10px;
+  color: #6a737c;
+}

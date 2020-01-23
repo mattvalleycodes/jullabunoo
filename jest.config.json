@@ -1,0 +1,4 @@
+{
+  "setupFiles": ["./test/setup.js"],
+  "snapshotResolver": "./test/snapshot-resolver.js"
+}

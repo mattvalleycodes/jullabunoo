@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AirportSummary /> component renders the airport information 1`] = `
+<a
+  className="airport-summary"
+  href="/airport/BEK"
+  onClick={[Function]}
+>
+  <h1
+    className="airport-summary__name"
+  >
+    Rae Bareli
+  </h1>
+  <span
+    className="airport-summary__code"
+  >
+    BEK
+  </span>
+  <span
+    className="airport-summary__location"
+  >
+    Rae Bareli City
+    , 
+    India
+     -- 
+    Asia
+  </span>
+</a>
+`;

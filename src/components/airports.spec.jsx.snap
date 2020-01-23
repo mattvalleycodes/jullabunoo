@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Airports /> component renders all of the provided airport information 1`] = `
+<ul
+  className="airports"
+>
+  <li
+    className="airports__summary"
+  >
+    <div
+      className="box"
+    >
+      <a
+        className="airport-summary"
+        href="/airport/YRI"
+        onClick={[Function]}
+      >
+        <h1
+          className="airport-summary__name"
+        >
+          Riviere Du Loup
+        </h1>
+        <span
+          className="airport-summary__code"
+        >
+          YRI
+        </span>
+        <span
+          className="airport-summary__location"
+        >
+          Riviere Du Loup
+          , 
+          Canada
+           -- 
+          Americas
+        </span>
+      </a>
+    </div>
+  </li>
+  <li
+    className="airports__summary"
+  >
+    <div
+      className="box"
+    >
+      <a
+        className="airport-summary"
+        href="/airport/CKG"
+        onClick={[Function]}
+      >
+        <h1
+          className="airport-summary__name"
+        >
+          Chongqing
+        </h1>
+        <span
+          className="airport-summary__code"
+        >
+          CKG
+        </span>
+        <span
+          className="airport-summary__location"
+        >
+          Chonqing
+          , 
+          China
+           -- 
+          Asia
+        </span>
+      </a>
+    </div>
+  </li>
+</ul>
+`;

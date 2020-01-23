@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Airport /> component renders the airport information 1`] = `
+<div
+  className="box airport"
+>
+  <div
+    className="data"
+  >
+    <b
+      className="data__title"
+    >
+      Code
+      :
+    </b>
+    <span>
+      BEK
+    </span>
+  </div>
+  <div
+    className="data"
+  >
+    <b
+      className="data__title"
+    >
+      Name
+      :
+    </b>
+    <span>
+      Rae Bareli
+    </span>
+  </div>
+  <div
+    className="data"
+  >
+    <b
+      className="data__title"
+    >
+      City
+      :
+    </b>
+    <span>
+      Rae Bareli City
+    </span>
+  </div>
+  <div
+    className="data"
+  >
+    <b
+      className="data__title"
+    >
+      Country
+      :
+    </b>
+    <span>
+      India
+    </span>
+  </div>
+  <div
+    className="data"
+  >
+    <b
+      className="data__title"
+    >
+      Region
+      :
+    </b>
+    <span>
+      Asia
+    </span>
+  </div>
+  <div
+    className="data"
+  >
+    <b
+      className="data__title"
+    >
+      Local time
+      :
+    </b>
+    <span>
+      Thursday, January 23rd 2020, 10:13:59 pm
+    </span>
+  </div>
+  <br />
+  <a
+    aria-current="page"
+    href="/"
+    onClick={[Function]}
+  >
+    Back
+  </a>
+</div>
+`;
