@@ -12,7 +12,7 @@ The primary goal of developing Jullabunoo was to explore the idea of building a 
 
 ## Application Design
 
-Jullabunoo is build on top of one of React's most powerful features to day, composition. Routing, Data Fetching, Data Transformation and UI renderings are all done using composition. 
+Jullabunoo is build on top of one of React composition model. Routing, Data Fetching, Data Transformation and UI renderings are all done using composition.
 
 
 
@@ -50,7 +50,7 @@ Jullabunoo comes with a set of useful commands:
 
 Jullabunoo is still a Work In Progress. Below is my plan for this project:
 
-* Switch from "Local Storage" as storage for caching to something better. "Local Storage" is really slow and requires converting JSON objects to string as it doesn't support objects out of the box! 
-* Write unit tests for the missing scenarios 
-* Fix React errors during test execution 
+* Switch from "Local Storage" as storage for caching to something better. "Local Storage" is really slow and requires converting JSON objects to string as it doesn't support objects out of the box!
+* Write unit tests for the missing scenarios
+* Fix React errors during test execution
 * Extend the `<Data />` component to support more features.
